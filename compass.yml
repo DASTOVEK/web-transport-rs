@@ -1,0 +1,13 @@
+name: web-transport-rs
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/33b35279-fbca-4568-bc6a-41e9114755c0
+description: Rust WebTransport library for native and WASM
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
